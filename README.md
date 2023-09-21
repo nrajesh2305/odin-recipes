@@ -1,0 +1,1 @@
+In this project, we used the terminal to create 3 different websites that are linked to a main website, and we showcase the recipes for each of the meals.
